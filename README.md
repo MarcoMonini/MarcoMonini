@@ -21,11 +21,12 @@
 ## 🛠️ Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,qt,opengl,js,html,css,react,mysql&perline=9" /><br/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,qt,js,html,css,react,mysql&perline=9" /><br/>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,docker,githubactions,git,linux&perline=9" />
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white" />
   <img src="https://img.shields.io/badge/LightGBM-02569B?style=flat-square" />
   <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
   <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
